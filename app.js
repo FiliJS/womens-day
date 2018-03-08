@@ -14,7 +14,8 @@ const superPowersList = [
     "CEO",
     "CTO",
     "Entrepreneur",
-    "Politician"
+    "Politician",
+    "Designer"
 ];
 
 const $image = document.createElement("img"),
